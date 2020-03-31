@@ -4,4 +4,4 @@ Thus, i created a simple program that extracts info from Ministry of Health, Ind
 
 
 ### PLOT
-![picture](img/corona_virus.png)
+![picture](https://github.com/Raven-7/COVID-19-Live-data-/blob/master/corona_virus.png)
